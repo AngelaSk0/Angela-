@@ -1,7 +1,7 @@
 name = 'Angela'
 age = 16
 girl = True 
-height = 161,4
+height = 161.4
 adress = '28k'
 regrets = []
 nature = ['moon', 'flowers', 'cat']
@@ -18,3 +18,4 @@ print(nature, type(nature))
 print(subjects, type(subjects))
 print(numbers, type(numbers))
 print(brothers, type(brothers))
+
